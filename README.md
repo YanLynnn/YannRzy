@@ -6,7 +6,7 @@
 > * Hello There, YannRzy Is Here 🎐
 
 <p align="center">
-<a href="https://github.com/YanLynnn"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/YanLynnn"><img title="Author" src="https://img.shields.io/badge/Yann-Rzy-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## Spotify Music :
 <p align="center">
