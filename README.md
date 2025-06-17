@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/e86b361b05cc319c31359.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://files.catbox.moe/nd5xzq.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## It's Me? :
